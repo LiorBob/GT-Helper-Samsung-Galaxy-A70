@@ -7,8 +7,8 @@ translate text from Hebrew to Polish, in order to read aloud the Polish text.
 
 This process was done, because reading aloud Hebrew text is not supported in GT.
 
-The application was tested on Google Pixel 2 XL device (resolution of
-2880\*1440).
+The application was tested on Samsung Galaxy A70 device (resolution of
+1080x2400).
 
 **First screen:** The user has to press the orange button-\> GT app is launched
 
