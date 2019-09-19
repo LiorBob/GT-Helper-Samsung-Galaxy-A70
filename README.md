@@ -27,20 +27,34 @@ This reflects the recent changes done in Google Translate, summer 2019.
 
 ![C:\\Users\\user\\Downloads\\Screenshot_20190909-150544_FirstButtonApp.jpg](media/10ecbbafc6ba81c20fc47c101933cdbf.jpg)
 
-**Third screen:** after taking the photo with GT's camera and going to
+Now, the user is being vocally directed with further instructions, which are
+being performed right after pressing "Scan" button. These are:
+
+"Press the circle to scan" and then "Press the white ellipse".
+
+After these instructions, the user is redirected to the next screen.
+
+**Third screen:** A green strip is presented on this screen;
+
+the user has to press this strip twice, to go to GT's translation screen:
+
+![C:\\Users\\user\\Downloads\\Screenshot_20190909-150805_FirstButtonApp.jpg](media/0fe959ed9b31308527b51accac89c1c0.jpg)
+
+**Fourth screen:** after taking the photo with GT's camera and going to
 translation,
 
 we now have a blank screen. On this screen, the user has to swipe up using
 finger.
 
-![C:\\Users\\user\\Downloads\\Screenshot_20190115-163314.png](media/e956d525538054c5a93751b3eac6e232.png)
+![C:\\Users\\user\\Downloads\\Screenshot_20190909-151204_FirstButtonApp.jpg](media/ef0169a9983e8fef31ee3a5a46845d08.jpg)
 
-**Fourth screen:** The user has to press the red button. This will lead to the
-last step, which is copying the translated text from GT, to the clipboard.
+**Fifth screen:** The user has to press the red button;
+
+This results in copying the translated text from GT, to the clipboard.
 
 Now, the user will hear the translated text read aloud, in Polish.
 
-![C:\\Users\\user\\Downloads\\Screenshot_20190115-163357.png](media/cd9d50491393d9babc9c562e6d13d88f.png)
+![C:\\Users\\user\\Downloads\\Screenshot_20190909-151343_FirstButtonApp.jpg](media/9ea4e603145a4cb4bf54db925aacec17.jpg)
 
 **Code:**
 
