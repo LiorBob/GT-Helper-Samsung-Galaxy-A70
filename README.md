@@ -58,26 +58,56 @@ Now, the user will hear the translated text read aloud, in Polish.
 
 **Code:**
 
-**MainActivity.java:** The first screen.
+**MainActivity.java:** Launches Google Translate app, right before the first
+screen.
 
-<https://github.com/LiorBob/GT-Helper/blob/master/app/src/main/java/com/example/user/firstbuttonapp/MainActivity.java>
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/MainActivity.java>
 
-**SecondActivity.java:** The second screen.
+**FirstActivity.java:** First screen: shows the orange button and handles its
+click event.
 
-<https://github.com/LiorBob/GT-Helper/blob/master/app/src/main/java/com/example/user/firstbuttonapp/SecondActivity.java>
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/FirstActivity.java>
 
-**ThirdActivity.java:** The third screen.
+**SecondActivity.java:** Second screen: shows the black button, handles its
+click event and reads aloud further instructions, for pressing the circle and
+white ellipse in GT.
 
-<https://github.com/LiorBob/GT-Helper/blob/master/app/src/main/java/com/example/user/firstbuttonapp/ThirdActivity.java>
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/SecondActivity.java>
 
-**FourthActivity.java:** The fourth screen.
+**SecondActivityWithStrip.java:** Third screen: shows the green strip and
+handles its click event.
 
-<https://github.com/LiorBob/GT-Helper/blob/master/app/src/main/java/com/example/user/firstbuttonapp/FourthActivity.java>
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/SecondActivityWithStrip.java>
+
+**ThirdActivity.java:** Fourth screen: shows the blank screen - directs user to
+swipe up.
+
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/ThirdActivity.java>
+
+**FourthActivity.java:** The fifth screen: shows the red button and handles its
+click event;
+
+If the user succeeds in all steps so far, this activity will read aloud the
+translated text, in Polish.
+
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/FourthActivity.java>
+
+**FifthActivity.java:** Shows a blank screen, for swipe down event.
+
+(This and the next activity deal with optional steps, if the user wants to go
+back to the beginning, to start all over again with new photo and translation)
+
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/FifthActivity.java>
+
+**SixthActivity.java:** Shows a blue button and handles its click event, to
+clear the previous translation, so we can go back to start all over again.
+
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/SixthActivity.java>
 
 **OnSwipeTouchListener.java:** A class for the swipe up gesture. Found on the
-net, used by ThirdActivity.java above.
+net, used by ThirdActivity.java and FifthActivity.java above.
 
-<https://github.com/LiorBob/GT-Helper/blob/master/app/src/main/java/com/example/user/firstbuttonapp/OnSwipeTouchListener.java>
+<https://github.com/LiorBob/GT-Helper-Samsung-Galaxy-A70/blob/master/src/main/java/com/example/user/firstbuttonapp/OnSwipeTouchListener.java>
 
 **YouTube demo:**
 
