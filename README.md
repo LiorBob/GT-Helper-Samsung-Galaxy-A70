@@ -8,25 +8,24 @@ translate text from Hebrew to Polish, in order to read aloud the Polish text.
 This process was done, because reading aloud Hebrew text is not supported in GT.
 
 The application was tested on Samsung Galaxy A70 device (resolution of
-1080x2400).
+1080\*2400).
 
-**First screen:** The user has to press the orange button-\> GT app is launched
+**First screen:** The user is directed, vocally, to press the orange button
+twice;
 
-and the user will hear some additional directions, including focus GT's camera.
+this results in launching Google Translate app and showing GT's camera.
 
-![C:\\Users\\user\\Downloads\\Screenshot_20190115-162932.png](media/abd7202ce32701a77742afe176b47370.png)
+![C:\\Users\\user\\Downloads\\Screenshot_20190909-150315_FirstButtonApp.jpg](media/aac21a3d327d929a84d92b3b640863cf.jpg)
 
-**Second screen:** The user has to press the upper (light green) button. This
-will help when going to translation step later on.
+**Second screen:**
 
-![C:\\Users\\user\\Downloads\\Screenshot_20190115-163122.png](media/004c171d870afe7280055df994fa0eff.png)
+The user has to press the black button twice;
 
-after upper button was pressed, it will be replaced with lower, black button.
+This results in going back to GT's camera and pressing "Scan" button.
 
-The user has to press the black button, which location is as GT's camera taking
-photo location.
+This reflects the recent changes done in Google Translate, summer 2019.
 
-![C:\\Users\\user\\Downloads\\Screenshot_20190115-163155.png](media/e553cb7b33318fef779e9d617b5a92ef.png)
+![C:\\Users\\user\\Downloads\\Screenshot_20190909-150544_FirstButtonApp.jpg](media/10ecbbafc6ba81c20fc47c101933cdbf.jpg)
 
 **Third screen:** after taking the photo with GT's camera and going to
 translation,
